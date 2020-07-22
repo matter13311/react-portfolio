@@ -1,19 +1,19 @@
 {
   "files": {
     "main.css": "/react-portfolio/static/css/main.4edcece7.chunk.css",
-    "main.js": "/react-portfolio/static/js/main.7e17823f.chunk.js",
-    "main.js.map": "/react-portfolio/static/js/main.7e17823f.chunk.js.map",
+    "main.js": "/react-portfolio/static/js/main.7e444060.chunk.js",
+    "main.js.map": "/react-portfolio/static/js/main.7e444060.chunk.js.map",
     "runtime-main.js": "/react-portfolio/static/js/runtime-main.646270ce.js",
     "runtime-main.js.map": "/react-portfolio/static/js/runtime-main.646270ce.js.map",
     "static/css/2.829c9cb5.chunk.css": "/react-portfolio/static/css/2.829c9cb5.chunk.css",
-    "static/js/2.78e23546.chunk.js": "/react-portfolio/static/js/2.78e23546.chunk.js",
-    "static/js/2.78e23546.chunk.js.map": "/react-portfolio/static/js/2.78e23546.chunk.js.map",
+    "static/js/2.a7fe55c4.chunk.js": "/react-portfolio/static/js/2.a7fe55c4.chunk.js",
+    "static/js/2.a7fe55c4.chunk.js.map": "/react-portfolio/static/js/2.a7fe55c4.chunk.js.map",
     "index.html": "/react-portfolio/index.html",
-    "precache-manifest.e2615ca3ec9c26e18dbeeaab42d55122.js": "/react-portfolio/precache-manifest.e2615ca3ec9c26e18dbeeaab42d55122.js",
+    "precache-manifest.fdd2e876c26748bc2f809b4b24331f61.js": "/react-portfolio/precache-manifest.fdd2e876c26748bc2f809b4b24331f61.js",
     "service-worker.js": "/react-portfolio/service-worker.js",
     "static/css/2.829c9cb5.chunk.css.map": "/react-portfolio/static/css/2.829c9cb5.chunk.css.map",
     "static/css/main.4edcece7.chunk.css.map": "/react-portfolio/static/css/main.4edcece7.chunk.css.map",
-    "static/js/2.78e23546.chunk.js.LICENSE.txt": "/react-portfolio/static/js/2.78e23546.chunk.js.LICENSE.txt",
+    "static/js/2.a7fe55c4.chunk.js.LICENSE.txt": "/react-portfolio/static/js/2.a7fe55c4.chunk.js.LICENSE.txt",
     "static/media/FS2BOT.png": "/react-portfolio/static/media/FS2BOT.c5b83c08.png",
     "static/media/MongoDB.png": "/react-portfolio/static/media/MongoDB.921abc56.png",
     "static/media/PHPMYSQL.png": "/react-portfolio/static/media/PHPMYSQL.aafe0c7a.png",
@@ -24,8 +24,8 @@
   "entrypoints": [
     "static/js/runtime-main.646270ce.js",
     "static/css/2.829c9cb5.chunk.css",
-    "static/js/2.78e23546.chunk.js",
+    "static/js/2.a7fe55c4.chunk.js",
     "static/css/main.4edcece7.chunk.css",
-    "static/js/main.7e17823f.chunk.js"
+    "static/js/main.7e444060.chunk.js"
   ]
 }
